@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cave Chase</string>
+    <string name="nickName">Nickname</string>
+    <string name="enter">Enter Cave</string>
+    <string name="join">Join Cave</string>
+    <string name="create">Create Cave</string>
+</resources>
